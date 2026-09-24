@@ -597,6 +597,7 @@ print("La valeur de PI est :", mon_math.pi)
 # Résultat attendu : La valeur de PI est : 3.141592653589793
 
 print("La valeur de e est :", mon_math.e)
+
 # Résultat attendu : La valeur de e est : 2.718281828459045
 
 print("La valeur de tau est :", mon_math.tau)
@@ -648,6 +649,7 @@ print(mon_math.inf - mon_math.inf)  # Résultat attendu : nan
 # B. EXEMPLE CONCRET D'UTILISATION DE math.inf :
 #    INITIALISER UNE RECHERCHE DE MINIMUM
 # ------------------------------------------------------------
+
 #
 # Imaginons que l'on cherche la distance la plus courte.
 # Avant d'avoir examiné la moindre distance, on peut considérer que
